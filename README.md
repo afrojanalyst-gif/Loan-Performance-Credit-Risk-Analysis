@@ -1,4 +1,4 @@
-# 🏦 Loan Portfolio Performance & Credit Risk Analysis
+# 🏦 Loan Performance & Credit Risk Analysis
 
 ## 📌 Project Overview
 
