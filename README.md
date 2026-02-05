@@ -70,7 +70,8 @@ The dashboard is designed as a **2-page executive-level Power BI report** focusi
 
 ### 🔵 Page 1 – Executive Overview
 
-Credit Risk & default analysis.PNG
+## 📊 Power BI Dashboard Preview
+![Dashboard Preview](Credit Risk & default analysis.PNG)
 
 **Highlights:**
 
