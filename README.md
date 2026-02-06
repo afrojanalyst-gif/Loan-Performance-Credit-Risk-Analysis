@@ -71,7 +71,7 @@ The dashboard is designed as a **2-page executive-level Power BI report** focusi
 ### 🔵 Page 1 – Executive Overview
 
 ## 📊 Power BI Dashboard Preview
-![Dashboard Preview](Loan performance overview.PNG)
+![Dashboard Preview]([Loan performance overview.PNG](https://github.com/afrojanalyst-gif/Loan-Performance-Credit-Risk-Analysis/blob/276907cc0cca1ced52e450d884ef08a3423745d6/Credit%20Risk%20%26%20default%20analysis.PNG))
 
 **Highlights:**
 
