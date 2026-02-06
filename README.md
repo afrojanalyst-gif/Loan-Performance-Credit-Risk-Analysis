@@ -83,7 +83,7 @@ The dashboard is designed as a **2-page executive-level Power BI report** focusi
 
 ### 🔴 Page 2 – Credit Risk Analysis
 
-![Credit Risk Analysis Dashboard](screenshots/page2-credit-risk-analysis.png)
+![Credit Risk Analysis Dashboard](https://github.com/afrojanalyst-gif/Loan-Performance-Credit-Risk-Analysis/blob/9bbfc372e46817ac83d77d52f927b72a9f260c2d/Credit%20Risk%20%26%20default%20analysis.PNG)
 
 **Highlights:**
 
