@@ -50,7 +50,7 @@ loan-portfolio-credit-risk-analysis/
 
 The dashboard is designed as a **2-page executive-level Power BI report** focusing on loan performance and credit risk insights.
 
-### 🔵 Page 1 – Executive Loan Performance Overview
+### 🔵 Page 1 – Loan Performance Overview
 
 * Portfolio size and exposure
 * Overall default and repayment health
@@ -68,7 +68,7 @@ The dashboard is designed as a **2-page executive-level Power BI report** focusi
 
 > Below screenshots showcase the final Power BI dashboard built for this project.
 
-### 🔵 Page 1 – Executive Overview
+### 🔵 Page 1 – Loan Performance Overview
 ![Dashboard Preview](https://github.com/afrojanalyst-gif/Loan-Performance-Credit-Risk-Analysis/blob/086fddd468d9236cef167d9555038267f7919a45/Loan%20performance%20overview.PNG)
 
 **Highlights:**
